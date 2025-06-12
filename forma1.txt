@@ -1,0 +1,16 @@
+Forma 1
+Flexbox
+
+display: flex;
+Para especificar el uso de Flexbox
+
+justify-content: center;
+Alinea el elemento horizontalmente
+
+align-items: center;
+Alinea el elemento verticalmente
+
+height: 100vh;
+Para especificar que la altura del contenedor sea de toda la pantalla, para que no quede solo centrado en la parte de arriba
+
+Flex hace que el elemento empuje el contenido hacia el centro, en este caso la imagen

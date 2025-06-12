@@ -1,0 +1,13 @@
+Forma 2
+Grid
+
+display: grid;
+Para especificar el uso de Grid
+
+place-items: center;
+Centra el contenido automaticamente
+
+height: 100vh;
+Para especificar que la altura del contenedor sea de toda la pantalla, para que el contenido la imagen no quede solo centrado en la parte de arriba
+
+Grid crea una cuadrícula, en este caso solo hay un "cuadro" y "place-items: center" ubica el contenido en el centro

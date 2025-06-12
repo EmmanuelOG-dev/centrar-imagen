@@ -1,0 +1,14 @@
+Forma 3
+Artesanía ancestral
+
+position: absolute;
+Posiciona el elemento en un lugar exacto en la pantalla, con la ayuda de las instrucciones de "top" y "left"
+
+top: 50%;
+Posiciona la parte superior del elemento a la mitad de la altura de la pantalla
+
+left: 50%;
+Posiciona la parte izquierda del elemento a la mitad del ancho de la pantalla
+
+transform: translate(-50%, -50%);
+Mueve el elemento por la mitad de el propio tamaño, en el eje X y eje Y, así queda el centro del elemento en el centro de la pantalla
